@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyal Chakraborty</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Machine Learning](https://github.com/piyalchakrs/Machine-Learning)
+- 🔭 I’m currently working on [Machine Learning](https://github.com/piyalchakrs/Machine-Learning) & [Deep Learning](https://github.com/piyalchakrs/PyTorch-Deep-Learning-)
 
 - 🌱 I’m currently learning **Machine Learning algorithms**
 
