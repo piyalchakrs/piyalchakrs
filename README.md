@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/piyalchakrs/Machine-Learning) & [Deep Learning](https://github.com/piyalchakrs/PyTorch-Deep-Learning-)
 
-- 🌱 I’m currently working on **DEEP LEARNING**
+- 🌱 I’m currently studying undergraduate in **ETE** at  **CUET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/piyalchakrs?tab=repositories](https://github.com/piyalchakrs?tab=repositories)
 
