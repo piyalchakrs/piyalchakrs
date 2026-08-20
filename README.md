@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Piyal Chakraborty</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Machine Learning](https://github.com/piyalchakrs/Machine-Learning) & [Deep Learning](https://github.com/piyalchakrs/PyTorch-Deep-Learning-)
+- 🔭 I’m currently working on the cross section of [Machine Learning](https://github.com/piyalchakrs/Machine-Learning) & [VLSI]
 
-- 🌱 I’m currently studying undergraduate in **ETE** at  **CUET**
+- 🌱 I’m currently a 4th year undergraduate in **ETE** at  **CUET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/piyalchakrs?tab=repositories](https://github.com/piyalchakrs?tab=repositories)
 
 - 📫 How to reach me **piyalchakraborty31@gmail.com**
 
-- ⚡ Fun fact **I love playing games and Guitars**
+- ⚡ Fun fact **I love playing story based games and Guitars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
